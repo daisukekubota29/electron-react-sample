@@ -5,7 +5,7 @@
   "homepage": ".",
   "main": "./src/main/js",
   "dependencies": {
-    "electron": "^5.0.4",
+    "electron": "^7.2.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.1.0",
